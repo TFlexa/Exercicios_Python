@@ -1,1 +1,1 @@
-# Exercicios_Python
+# Aprendendo liguagem Python.
